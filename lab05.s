@@ -1,3 +1,5 @@
+#Aikaterini Panagiota Katsanou
+
 # ----------------------------------------------------------------------------------------
 # lab05.s 
 #  Verifies the correctness of some aspects of a 5-stage pipelined RISC-V implementation
